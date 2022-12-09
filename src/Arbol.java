@@ -9,6 +9,23 @@ public class Arbol {
 		this.nombre = nombre;
 		this.altura = altura;
 	}
+
+	public String getNombre() {
+		return nombre;
+	}
+
+	public void setNombre(String nombre) {
+		this.nombre = nombre;
+	}
+
+	public int getAltura() {
+		return altura;
+	}
+
+	public void setAltura(int altura) {
+		this.altura = altura;
+	}
+	
 	
 	
 }
